@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the proceedings of James Percy late of Ireland, inpursuance of his native right to the earldome of Northumberland as cousin and next heir male to Jocelin Percy late and last Earl deceased, who at his coming into England, was informed, that the countess was with child, which prevented him from entring his claim until the third of Feb 1671.  And then understanding the contrary, entred in at Whitehall at the signet office, and hath used all honourable and justifyable endeavours to accomplish his just dues for three years and upwards, as followeth.</title>
+            <author>Percy, James, 1619-1690?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09716</idno>
+            <idno type="STC">Wing P1459</idno>
+            <idno type="STC">ESTC R181654</idno>
+            <idno type="EEBO-CITATION">64551545</idno>
+            <idno type="OCLC">ocm 64551545</idno>
+            <idno type="VID">184689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184689)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the proceedings of James Percy late of Ireland, inpursuance of his native right to the earldome of Northumberland as cousin and next heir male to Jocelin Percy late and last Earl deceased, who at his coming into England, was informed, that the countess was with child, which prevented him from entring his claim until the third of Feb 1671.  And then understanding the contrary, entred in at Whitehall at the signet office, and hath used all honourable and justifyable endeavours to accomplish his just dues for three years and upwards, as followeth.</title>
+                  <author>Percy, James, 1619-1690?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Percy, James, 1619-1690?</term>
+               <term>Percy, Jocelin.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Inheritance and succession --  England --  Early works to 1800.</term>
+               <term>Land titles --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England dy 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:184689:1" rendition="simple:additions"/>
+            <head>A Short Account of the Proceedings of JAMES PERCY late of <hi>Ireland,</hi> inpurſuance of his Native Right to the Earldome of <hi>Northumberland</hi> as Couſin and next Heir Male to <hi>Jocelin Percy</hi> late and laſt Earl Deceaſed, who at his coming into <hi>England,</hi> was informed, that the Counteſs was with Child, which prevented him for Entring his Claim until the Third of <hi>Feb. 1671.</hi> and then underſtanding the contrary, Entred it at <hi>Whitehall</hi> at the <hi>Signet Office,</hi> and hath uſed all Honourable and juſtifyable endeavours to accompliſh his juſt Dues for Three Years and upwards, as followeth.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <seg rend="decorInit">H</seg>E Petitioned His Majeſty ſeveral times, not preſuming to proceed any way without His Majeſties privicy, whoſe Gracious Anſwer was to the Maſter of Requeſts; <hi>God forbid that He ſhould hinder an Heir, but that He ſhould have the benefit of the Law:</hi> In purſuance of which Anſwer, there was an Information (in the nature of a <hi>Quo-warranto</hi> preſented to the Attourney General, which he re<g ref="char:EOLhyphen"/>fuſed to Sign, Declaring that He was Councel for the Counteſs of <hi>Northumberland,</hi> and therefore prevented him from due courſe in Law.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> He Sued the Counteſs in the Honourable Court of Chancery; Who freely joyned in Commiſ<g ref="char:EOLhyphen"/>ſion, and promiſed upon her Honour to put in her Anſwer; But not liking what his Witneſſes teſtified and proved, She demurr'd; And his Councel finding his Bill too ſhort, adviſed him to pay the Coſts, and proceed to Common Law.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Aſſizes was Twelvemonth there was delivered Three Declarations in Ejectment, one in <hi>Yorkshire,</hi> and one in <hi>Northumberland,</hi> and one in <hi>Cumberland;</hi> at his return the Truſtees came to his Councel, and deſired him to perſwade his Clyent to go on with but one Tryal for all, and that ſhould include all the reſt; Thereupon it was agreed to proceed upon that in <hi>Northumberland,</hi> by reaſon the Title was from thence; and accordingly Eſq; <hi>Champion</hi> one of the Counteſſes Truſtees, was appointed to be <hi>Defendant.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Hoping to make quick diſpatch, preſented the King and Houſe of Peers with freſh Petitions, but the <hi>Senior</hi> Coun<g ref="char:EOLhyphen"/>teſs of <hi>Northumberland</hi> put in a croſs and ſcandalous Petition to prevent the proceedings of his Petitions, which cau<g ref="char:EOLhyphen"/>ſed him to ſwear 43 Witneſſes at the Bar in his Vindication; and whereas his Councel did not in due time appear, being preſt upon to examine Witneſſes or be mute, to give that High Court content, then aſſembled upon that occaſion, did by their Inſtance examine Four of his Witneſſes, which cleared him from being an Impoſtor as her Petition did pretend; But when the Counteſſes Councels had heard theſe Teſtimonies, and his Councels, though late appearing, and deſiring to hear the ſaid Witneſſes over again, her Councel waved her Petition, (ſaying) they did not own the Grand-Daughters Right, as her Petition did pretend, but ſet up the Kings Intereſt; but his Councel gave them a check, (ſaying,) <hi>They ought not to plead for the King and the Subject both at one time;</hi> and alſo pleaded that his Petitions might be diſmiſt, and left to the Common Law; And his laſt Order in Parliament ſaith they were diſmiſt accordingly: But he muſt ever own and Honour the great Patience of the Kings Cracious Majeſtie, and the Lords Committees in the abſence of his Councels.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Since the diſmiſſions of his Petitions, He endeavoured to proceed to Tryal at Common Law according to the for<g ref="char:EOLhyphen"/>mer agreement; and having obtained a Rule for Tryal to be held at <hi>Newcaſtle</hi> this laſt Aſſizes, the <hi>junior</hi> Counteſs obſtructed it by pleading her Priviledge in theſe words following.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>For Mr. <hi>James Percy</hi> theſe.</head>
+                  <opener>
+                     <salute>Mr. <hi>Percy.</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <hi>The Counteſs of</hi> Northumberland <hi>will not gratifie ſuch a Perſon as you by quitting her Priviledge, therefore in the Cauſe upon the Ejectment betwixt</hi> Utting <hi>and</hi> Champion <hi>if you ſhall proceed is muſt be at your peril, for her Ladyſhip ſtands upon her Priviledge.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>June 26. 1673.</date>
+                     </dateline>
+                     <signed>John Gee.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> The Truſtees did arreſt him two ſeveral times when he did deliver the Declarations in Ejectment, in which they would never proceed, neither can he force them to it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> He humbly preſents theſe his Grievances as a deſire of a general good of the Free-born Subjects of <hi>England,</hi> to prevent the like troubles to ſuch as ſhall ſucceed; and that the mature Wiſdom of the Nation would take it into their ſerious conſideration.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> When the <hi>Court of Wards</hi> was put down, all theſe Inconveniences were not foreſeen; But had they conſidered, of ſome Office in the nature of the <hi>Court of Wards</hi> and erected it, it would have prevented troubles, paſt, preſent, and time to come: He is at the Law, but prevented by priviledge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> This one thing with the reſt, to be ſeriouſly conſidered of, Eſq; <hi>Champion,</hi> and Mr. <hi>Orlando Gee,</hi> the <hi>junior</hi> Counteſs of <hi>Northumberland</hi>'s Truſtees, deſired the Plaintiff <hi>James Percy</hi> to put a ſtop to the Duke of <hi>Monmouth</hi>'s Agents Proceed<g ref="char:EOLhyphen"/>ings, for they had a Grant, and the Patent was ready to paſs the Seal; He replyed he could not have worſer enemies than they had been to him; it could do him no harm, for the King was ſo Gracious that He gave it with this Caution, if there was no Heir Male, though it hath paſt the Seal; This is to crave a ſtop, that the Patent may not paſs the Houſe till a fair Tryal at Common Law be had, to know whether an Heir or no Heir be; for He is reſolved that Honourable Family and Name of <hi>Percy</hi> ſhall not be extinguiſhed by a Gazette.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Alſo there is other Eſtates in Reverſion to the <hi>Percies</hi> after the death of <hi>Edward Rogers</hi> and his Heirs Males, which is fallen lately, and begg'd by others, that their Patent may be taken notice of, and prevented, that the Eſtate may not be ſcatter'd before a Family be extinct,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> As he humbly preſents, ſo he is bold to declare himſelf a free-born Native, and hath been ever a Loyal and Faithful Subject, and a great ſufferer for the ſame: And if he ſhould ſlight Gods Providence, and neglect his own Birth-right and Inheritance, he is not worthy to be called a Chriſtian, but to be recorded for an <hi>Eſau.</hi>
+            </p>
+            <closer>
+               <signed>I am Your Humble Servant, <hi>JAMES PERCY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
